@@ -1,0 +1,9 @@
+transformers
+accelerate
+bitsandbytes
+langchain
+streamlit
+pandas
+numpy
+matplotlib
+plotly
